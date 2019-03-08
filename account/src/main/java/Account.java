@@ -1,6 +1,3 @@
-/*
-* Account
-*/
 public class Account {
     /*
     Attributes of an account
